@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<a href="https://github.com/CyberPro99" target="_blank">
+<a href="https://github.com/Ali-Ghanme" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </a>
@@ -45,7 +45,7 @@
 </div>
 <br/>
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=CyberPro99&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Ghanme&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 <br/>  
 <br/>  
 <br/>
