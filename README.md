@@ -5,8 +5,11 @@
 - :school: I am an `Mobile app Developer` at freelancer website 🙂
 <br>
 - :technologist: I am using `Dart` as primary language
+<br>
 - :student: I’m currently learning: `Clean Code`.
+<br>
 - :nerd_face: Always `learning new things`
+<br>
 <br>
 <br>
 <br>
