@@ -26,8 +26,8 @@
 <img src=https://img.shields.io/badge/mostaql-%231E77B5.svg?&style=for-the-badge&logo=mostaql&logoColor=white alt=mostaql style="margin-bottom: 5px;" />
 </a>
 </a>
-<a href="https://www.linkedin.com/in/ali-ghanem-a88b70221/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.upwork.com/freelancers/~01cf1af50bf906d0c8" target="_blank">
+<img src=https://img.shields.io/badge/upwork-%231E77B5.svg?&style=for-the-badge&logo=upwork&logoColor=green alt=upwork style="margin-bottom: 5px;" />
 </a>
 </a>
 </a>
