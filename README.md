@@ -23,7 +23,7 @@
 </a>
 </a>
 <a href="https://mostaql.com/u/Ali_Ghanem_99" target="_blank">
-<img src="https://img.shields.io/badge/upwork-Ali%20Ghanem%20-blue?&style=for-the-badge&logo=mostaql&logoColor=blue alt=mostaql style=margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/mostaql-Ali%20Ghanem%20-blue?&style=for-the-badge&logo=mostaql&logoColor=blue alt=mostaql style=margin-bottom: 5px;" />
 </a>
 </a>
 <a href="https://www.upwork.com/freelancers/~01cf1af50bf906d0c8" target="_blank">
