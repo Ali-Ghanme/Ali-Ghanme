@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi , I'm Qamar A. Safadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Ali M. Ghanme <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
 
 ## :sassy_woman:  About me
-- :school: I am an `Android Developer` at Selela Inforamtion Technology
-- :technologist: I am using `Kotlin` as primary language
+- :work: I am an `Mobile app Developer` at freelancer website 🙂 
+- :technologist: I am using `Dart,Kotlin` as primary language
 - :student: I’m currently learning: `Jetpack Compose`.
 - :nerd_face: Always `learning new things`
 
@@ -15,24 +15,16 @@
 <br>
 <br>
   
-<a href="https://github.com/qamarelsafadi" target="_blank">
+<a href="https://github.com/CyberPro99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/qamarSafadi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/qamar-elsafadi" target="_blank">
+<a href="https://www.linkedin.com/in/ali-ghanem-a88b70221/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/qamar_safadi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-![Profile views counter](https://komarev.com/ghpvc/?username=qamarelsafadi&&style=flat-square)  
-
 <br/>  
 
 
