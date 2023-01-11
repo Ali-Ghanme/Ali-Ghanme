@@ -27,7 +27,7 @@
 </a>
 </a>
 <a href="https://www.upwork.com/freelancers/~01cf1af50bf906d0c8" target="_blank">
-<img src=https://img.shields.io/badge/upwork-%231E77B5.svg?&style=for-the-badge&logo=upwork&logoColor=green alt=upwork style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/upwork-%231E77B5.svg?&style=for-the-badge&logo=upwork&logoColor=green alt=upwork style="margin-bottom: 5px;" />
 </a>
 </a>
 </a>
