@@ -53,7 +53,7 @@
 <br/>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ali-Ghanme&show_icons=true&count_private=true&hide_border=true&title_color=3c74ff&icon_color=3c8dfd&bg_color=0d1117&text_color=ffffff&border_color=0c1a25%22" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ali-Ghanme&count_private=true&hide_border=true&title_color=3c74ff&icon_color=3c8dfd&bg_color=0d1117&text_color=ffffff&border_color=0c1a25&show_icons=true&theme=radical" />
 <br/>  
 <br/>  
 <br/>
