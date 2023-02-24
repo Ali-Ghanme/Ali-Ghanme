@@ -71,5 +71,5 @@
 <br/>  
 <br/>  
 <br/>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali Ghanme&layout=compact&theme=radical&show_icons=true&title_color=3c74ff&icon_color=3c8dfd&bg_color=0d1117&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali Ghanme&layout=compact&theme=radical&show_icons=true" />
 
