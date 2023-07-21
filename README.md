@@ -42,8 +42,6 @@ const info = {
 <img align="left" alt="Android" width="26px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="padding-right:10px;" />
 
-<img align="left" alt="Bloc" width="26px" src="https://bloclibrary.dev/assets/logo/cubit.png" style="padding-right:10px;" />
-<img align="left" alt="Restful API" width="26px" src="https://profilinator.rishav.dev/skills-assets/restapi-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://profilinator.rishav.dev/skills-assets/github.png" style="padding-right:10px;" />
 
