@@ -1,14 +1,17 @@
 
 <h1 align="center">Hi , I'm Ali M. Ghanme <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
-- :school: I am an `Mobile app Developer` at freelancer website 🙂
-<br>
-- :technologist: I am using `Dart` as primary language
-<br>
-- :student: I’m currently learning: `Clean Code`.
-<br>
-- :nerd_face: Always `learning new things`
+```js
+
+const info = {
+    name: "Ali Ghanem",
+    from: "Gaza - Palstine",
+    email: "gly703105@gmail.com",
+    nerd_face: "Always `learning new things`"
+}
+
+```
+
 <br>
 <br>
 <br>
