@@ -30,8 +30,9 @@ const info = {
 </a>
 <br/>  
 <br/>  
-# Languages, Tools
-
+# Languages and Tools
+<br/>  
+<br/>
 <div style="display: flex; flex-wrap: nowrap;">
   
 <img align="left" alt="Java" width="26px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" style="padding-right:10px;" />
