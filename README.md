@@ -36,19 +36,19 @@ const info = {
   
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"style="paddingright:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" style="paddingright:10px;"/>
   
 <img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg"style="paddingright:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" style="paddingright:10px;"/>
 
 <img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"style="paddingright:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" style="paddingright:10px;"/>
   
 <img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"style="paddingright:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" style="paddingright:10px;"/>
 </div>
 </a>
 </a>
