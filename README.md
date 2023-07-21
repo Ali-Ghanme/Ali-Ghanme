@@ -71,8 +71,7 @@
 <br/>  
 <br/>  
 <br/>
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ghanme&layout=compact&theme=github_dark&show_icons=true -->
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ghanme&layout=compact&theme=github_dark&show_icons=true"/>
+
 
 <p align="center">
   <img align="center" src = "https://profile-counter.glitch.me/Ali-Ghanme/count.svg" alt ="Loading..."> <br><br>
