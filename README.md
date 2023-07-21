@@ -32,23 +32,17 @@ const info = {
 <br/>  
 ## Languages, Tools, and Concepts for Flutter Developer with Native Background
 
-<div style="display: flex; flex-wrap: nowrap;">
-  
-<img align="left" alt="Java" width="26px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Kotlin" width="26px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" style="paddingright:10px;"/>
-<img align="left" alt="Dart" width="26px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" style="padding-right:10px;" />
+- Java
+- Kotlin
+- Dart
+- Flutter
+- Android
+- Firebase
+- Bloc (State Management)
+- Restful API
+- Git/Github
+- CI/CD (Continuous Integration and Continuous Deployment)
 
-<img align="left" alt="Flutter" width="26px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Android" width="26px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Firebase" width="26px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="padding-right:10px;" />
-
-<img align="left" alt="Bloc" width="26px" src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" style="padding-right:10px;" />
-<img align="left" alt="Restful API" width="26px" src="https://profilinator.rishav.dev/skills-assets/restapi-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://profilinator.rishav.dev/skills-assets/github.png" style="padding-right:10px;" />
-
-<img align="left" alt="CI/CD" width="26px" src="https://profilinator.rishav.dev/skills-assets/cicd-icon.svg" style="padding-right:10px;" />
-</div>
 
 </a>
 </a>
