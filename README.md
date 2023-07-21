@@ -43,9 +43,7 @@ const info = {
 <img align="left" alt="Firebase" width="26px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://profilinator.rishav.dev/skills-assets/github.png" style="padding-right:10px;" />
 
-<img align="left" alt="CI/CD" width="26px" src="https://profilinator.rishav.dev/skills-assets/cicd-icon.svg" style="padding-right:10px;" />
 </div>
 
 
