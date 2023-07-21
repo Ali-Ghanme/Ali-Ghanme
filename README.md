@@ -30,7 +30,7 @@ const info = {
 </a>
 <br/>  
 <br/>  
-## Languages, Tools, and Concepts for Flutter Developer with Native Background
+# Languages, Tools
 
 <div style="display: flex; flex-wrap: nowrap;">
   
