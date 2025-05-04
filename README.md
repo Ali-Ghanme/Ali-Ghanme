@@ -21,46 +21,19 @@ const info = {
   <a href="https://www.linkedin.com/in/ali-ghanem-a88b70221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mostaql.com/u/Ali_Ghanem_99" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-005f99?style=for-the-badge&logoColor=white" alt="Mostaql"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01cf1af50bf906d0c8" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
 <p>
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" width="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" width="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" width="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://img.shields.io/badge/REST%20API-005f99?style=for-the-badge&logo=api&logoColor=white" alt="API" height="30" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="30" />
+  <img src="https://img.shields.io/badge/BLoC-40C4FF?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" height="30" />
 </p>
 
 ---
-
-## 📊 Featured Projects
-
-- [🛒 Flutter E-Commerce App](https://github.com/Ali-Ghanme/flutter-ecommerce-app) — Full-featured shopping app with cart, authentication, and payment integration.
-- [⚙️ Services Booking App](https://github.com/Ali-Ghanme/services_app) — Book local services with real-time availability and chat.
-- [📊 Expense Tracker](https://github.com/Ali-Ghanme/flutter-expense-tracker) — Track your weekly and monthly expenses with beautiful charts.
-
----
-
-## 🚡 Certifications & Achievements
-
-- ✅ Google Flutter Certificate (2024)
-- ✅ Firebase Developer Training (2023)
-- ✅ Top Rated on Upwork (⭐️⭐️⭐️⭐️⭐️)
-
----
-
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Ghanme&count_private=true&show_icons=true&hide_border=true&theme=blueberry" />
-</p>
